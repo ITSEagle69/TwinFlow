@@ -66,4 +66,4 @@ Settings are kept in `%APPDATA%\Twinflow\settings.json`.
 
 ## Licence
 
-Add your licence here (for example MIT).
+MIT
